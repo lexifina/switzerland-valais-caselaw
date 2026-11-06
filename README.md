@@ -1,5 +1,7 @@
 # Swiss case law: Valais (cantonal courts and bodies)
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the case law of Valais, Switzerland, which global-law reads at `switzerland/valais/caselaw/`.
+
 Every published decision of these courts and bodies as a git history: one file per decision, one commit per decision,
 dated the day it was decided. 7,013 decisions from 1959-11-20 to 2026-11-06. Part of
 [lexifina/global-law](https://github.com/lexifina/global-law) at `switzerland/valais/caselaw`.
